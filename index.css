@@ -73,10 +73,10 @@ body {
 }
 
 #place-time img {
-  max-width: 100%;
-
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
-
 
 #footer {
   background: #2c3e50;
